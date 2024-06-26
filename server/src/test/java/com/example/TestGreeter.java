@@ -10,7 +10,7 @@ import static org.junit.matchers.JUnitMatchers.containsString;
 
 public class TestGreeter {
 
-  private Greeter greeter;//test comment
+  private Greeter greeter;//test comment 123
 
   @Before
   public void setup() {
