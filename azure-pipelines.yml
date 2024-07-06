@@ -4,12 +4,16 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 <<<<<<< HEAD
 # cross check 
+<<<<<<< HEAD
 # dev1 changes
 =======
 # cross check
 #dev2 changes
 
 >>>>>>> dev2
+=======
+
+>>>>>>> parent of 6bc75ab (dev1 changes)
 trigger:
 - master
 
